@@ -1,6 +1,6 @@
 {
-  "name": "Instagram Video Downloader",
-  "short_name": "InstaDownloader",
+  "name": "Insta Downloader",
+  "short_name": "Insta Downloader",
   "description": "Download Instagram videos easily with our free online video downloader.",
   "start_url": "/",
   "display": "standalone",

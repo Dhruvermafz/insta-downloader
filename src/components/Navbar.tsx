@@ -15,17 +15,17 @@ const navbarLinks = [
     },
     {
       name: "Creator",
-      href: "https://github.com/riad-azz",
+      href: "https://github.com/Dhruvermafz",
       target: "_blank",
     },
     {
       name: "Github",
-      href: "https://github.com/riad-azz/instagram-video-downloader",
+      href: "https://github.com/Dhruvermafz/insta-downloader",
       target: "_blank",
     },
     {
       name: "Contact",
-      href: "https://twitter.com/riadazz",
+      href: "https://twitter.com/thenerdy_guy",
       target: "_blank",
     },
   ];
